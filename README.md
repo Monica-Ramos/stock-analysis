@@ -14,8 +14,12 @@ By refactoring the code, we managed to make it more efficient. For the 2017 anal
 
 ![](Resources/VBA_Challenge_2017.png)
 
-For the 2018 analysis, the initial time using the original code was of 0.7890625. When running the refactored code the time decreased to 0.734375. This is shown with the next images.
+For the 2018 analysis, the initial time using the original code was of 0.7890625. 
+![](Resources/Original_Code_2018.png)
 
+When running the refactored code the time decreased to 0.734375. 
+
+![](Resources/VBA_Challenge_2018.png)
 ## Summary
 
 With this project we can conclude that some of the advantages of refactoring the code is that it indeed makes the code run faster, which can be benefitial in terms of time and money. However, it is time consuming to refactor a code, as it requieres of different attempts and creativity to come with a better or more effective solution. 
