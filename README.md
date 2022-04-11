@@ -8,7 +8,9 @@ In addition it goes a step further by refactoring the initial code, which basica
 
 ## Results
 
-By refactoring the code, we managed to make it more efficient. For the 2017 analysis the run time decreased from 0.8046875 seconds to 0.734375 seconds. This  can be appreciated with the next images. 
+By refactoring the code, we managed to make it more efficient. For the 2017 analysis the run time decreased from 0.8046875 seconds to 0.734375 seconds. This  can be appreciated with the next images, the first image shows the original code run time and the second the run time using the refactored code. 
+
+![](Resources/Original_Code_2017.png)
 
 ![](Resources/VBA_Challenge_2017.png)
 
