@@ -25,7 +25,7 @@ When running the refactored code the time decreased to 0.734375.
 ![](Resources/VBA_Challenge_2018.png)
 ## Summary
 
-With this project we can conclude that some of the advantages of refactoring the code is that it indeed makes the code run faster, which can be benefitial in terms of time and money. However, it is time consuming to refactor a code, as it requieres of different attempts and creativity to come with a better or more effective solution. 
+With this project we can conclude that some of the advantages of refactoring the code is that it indeed makes the code run faster, which can be benefitial in terms of time and money. As stated by Mr.Martin Fowler, "refactoring improves the design of software, as it makes the design easier to understand, helps find buggs and helps executing programs faster."[](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc#:~:text=Refactoring%20improves%20the%20design%20of,the%20implementation%20when%20not%20refactoring.)  However, it is time consuming to refactor a code, as it requieres of different attempts and creativity to come with a better or more effective solution. 
 
 Regarding the refactoring of the original VBA script in this project, the advantage is that the time reduced for both years analysis(2017 and 2018). But it is not that significant. The main disadvantage of the refactored code is that it took a lot of time to make the new code work correctly, as many errors arised during the process.  
 
