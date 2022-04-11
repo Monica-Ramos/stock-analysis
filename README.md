@@ -7,12 +7,14 @@ This project seeks to analyze a couple of green energy stocks based on their tot
 In addition it goes a step further by refactoring the initial code, which basically means making it more efficient. This second part of the project was done to make sure that the code can run faster even when more stock data was analyzed.
 
 ## Results
-
+### 2017 Analysis
 By refactoring the code, we managed to make it more efficient. For the 2017 analysis the run time decreased from 0.7890625 seconds to 0.734375 seconds. This  can be appreciated with the next images, the first image shows the original code run time and the second the run time using the refactored code. 
 
 ![](Resources/Original_Code_2017.png)
 
 ![](Resources/VBA_Challenge_2017.png)
+
+### 2018 Analysis
 
 For the 2018 analysis, the initial time using the original code was of 0.796875. 
 
